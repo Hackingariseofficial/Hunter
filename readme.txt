@@ -1,4 +1,4 @@
-Hunter is a person search for people in the usa mead in bash 
+Hunter is a person search for people in the usa made in bash 
 
 How to use hunter 
 
